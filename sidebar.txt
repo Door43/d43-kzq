@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kzq:home|Door43 (kzq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kzq|d43-kzq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kzq/archive/master.zip|d43-kzq.zip]]
+
+**Recent Changes**
+{{changes>ns = kzq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kzq|Ethnologue data]]
+
